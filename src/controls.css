@@ -1,0 +1,57 @@
+
+.control-panel {
+    background-color: rgba(66,66,66,0.8);
+    color: #fff;
+    float: right;
+    text-align: left;
+    width:280px;
+    height: 100%;
+}
+
+.start-position {
+    margin-top: 20px;
+    padding: 35px;
+}
+
+.start-position input {
+    width: 70px;
+}
+
+.control-panel label {
+    font-size: 1rem;
+    width: 100%;
+    margin-right: 8px;
+}
+
+
+.control-panel input[type="text"] {
+    padding: 5px;
+    background-color: #212121;
+    color: #6d6d6d;
+    font-size: 1rem;
+    letter-spacing: 2pt;
+}
+
+.dpad {
+ margin-left:20px;
+}
+
+.dpad Button {
+
+ margin-right: 5px;
+ margin-left: 5px; 
+ display: inline;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ padding-right: 20px;
+ padding-left: 20px;
+}
+
+.execution {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.execution Button {
+    padding: 11px;
+}
